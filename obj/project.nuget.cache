@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o9uYT9yoIN0b0H6xAAEH0tSrbMvA/IxnuhNrE90fqvwk0wWXRF7N/rDaM/v4vih7kbv2pDPRRIunlGkC05uUBg==",
+  "success": true,
+  "projectFilePath": "/home/sups/suprav_kandel21776/dotnet-programs/dotnet-programs.csproj",
+  "expectedPackageFiles": [
+    "/home/sups/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.4/microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
